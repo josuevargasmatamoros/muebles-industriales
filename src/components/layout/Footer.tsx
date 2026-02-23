@@ -74,14 +74,14 @@ export default function Footer() {
                 <span className="flex items-center gap-3 text-[#a89a8a] text-sm">
                   <Mail className="w-4 h-4 text-[#b85c2c]" />
                   {/* Agrega tu email aquí */}
-                  contacto@mueblesind.com
+                  infinitywoods@gmail.com
                 </span>
               </li>
               <li>
                 <span className="flex items-center gap-3 text-[#a89a8a] text-sm">
                   <MapPin className="w-4 h-4 text-[#b85c2c]" />
                   {/* Agrega tu ciudad aquí */}
-                  Colombia
+                  Costa Rica
                 </span>
               </li>
             </ul>
